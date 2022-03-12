@@ -1,0 +1,46 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: #E7E3E7; /*Wallflower White*/
+  font-family: 'Merriweather', serif;
+}
+
+.row {
+	width: 100%;
+}
+
+/*Header Styles*/
+
+/*Navbar*/
+#top-nav {
+	background-color: #161409; /*Black Shimmer*/
+	border: 0;
+	border-radius: 0;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-bottom: 15px;
+}
+i {
+	margin-right: 5px;
+}
+ul {
+	text-align: center;
+}
+
+/*Body*/
+h1, h2 {
+	margin-top: 0.7rem;
+	margin-bottom: 0.7rem;
+}
+
+#menu-section {
+	/*margin: 5px;*/
+}
+#menu-container {
+	margin: 15px 0 15px 12px;
+	background-color: #997E3B; /*Metallic Sunburst*/
+	overflow: auto;
+}
+#menu-content {
+	font-family: sans-serif;
+}
